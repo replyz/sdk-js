@@ -7,7 +7,9 @@
 
 # replyz/sdk-js
 
-Official Replyz SDK for JavaScript and TypeScript.
+The official **JavaScript and TypeScript SDK** for [Replyz](https://replyz.io), the email platform for AI agents. Give each agent its own inbox, wait for incoming email, and extract verification codes and links from Node.js or edge runtimes.
+
+Hosted in the EU. Not for bulk, marketing or disposable email.
 
 **Status:** in development, first release soon.
 
